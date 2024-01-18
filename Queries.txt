@@ -1,0 +1,34 @@
+1. Finding top 10 highest rated resturants.
+2. Finding top 10 highest voted resturants.
+3. Top 10 costliest resturant in banglore
+4. Top 10 cheapest resturant in banglore.
+5. Finding the no. of each type of resutrnats 
+6. Finding best top 10 resturant for desserts based on votes 
+7. Finding best top 10 cafes based on rating
+8. Finding best top 10 cafes based on voting 
+
+______________________________
+
+9. finding areas which have least number of resturants
+10. finding areas which have maximum number of resturants
+11. finding number of resturants which support both online booking and table booking service
+12. finding number of resturants of different type at different location
+13. finding out the locations which has maximum of a particular resturant type
+14. finding the highest rated resturant of each location
+15. finding the lowest resturant of each location
+16. categorizing resturants for non-veg/veg 
+17. finding least rated non-veg and veg resturants
+18. finding most rated non-veg and veg resturants
+19. finding top 5 expensive non-veg resturants
+20. finding top 5 budget friendly non-veg resturants
+21. finding top 5 budget friendly veg resturants
+22. finding top 5 expensive veg resturants
+23. finding number of resturants type of each veg and non-veg
+24. finding best resturant for a specific cuisines eg. south india
+25. finding all resturants which serves a particular cuisine eg.Seafood
+26. finding top restuarants for a particular cuisine.
+27. finding top 5 restuarants for middle class
+28. grouping listedintype and finding how many are non-veg and veg
+29. #categorizing on the basis of cost of restuarant whether it is expensive,cheap
+30. categorizing non-veg/veg restuarants on the basis of cost
+31. dinding the resturants which has maximum chains
